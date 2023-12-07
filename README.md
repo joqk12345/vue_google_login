@@ -38,3 +38,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+## reference 
+1. [vue3 quickstart](https://vuejs.org/guide/quick-start.html)
