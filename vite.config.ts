@@ -7,6 +7,7 @@ import { Server } from 'node:http'
 // https://vitejs.dev/config/
 export default defineConfig({
   server: {
+    open: 'chrome',
     port: 8001,
     host: '0.0.0.0',
   },
